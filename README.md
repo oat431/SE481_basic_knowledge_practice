@@ -8,3 +8,6 @@ I decide to win the SE481 (IR) Here the list That I am going to learn beside the
 - ML
 
 Other thing.
+- Tf-Idf
+- BM25
+- Spell collection
